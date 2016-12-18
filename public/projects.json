@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Project 101",
+    "desc": "Some things about the project",
+    "stars": 0,
+    "link": "github-link",
+    "pics": [],
+    "dateCreated": "timestamp",
+    "documentationLink": "link"
+  },
+  {
+    "name": "Project 101",
+    "desc": "Some things about the project",
+    "stars": 123,
+    "link": "github-link",
+    "pics": [],
+    "dateCreated": "timestamp",
+    "documentationLink": "link"
+  },
+  {
+    "name": "Project 101",
+    "desc": "Some things about the project",
+    "stars": 4,
+    "link": "github-link",
+    "pics": [],
+    "dateCreated": "timestamp",
+    "documentationLink": "link"
+  }
+]

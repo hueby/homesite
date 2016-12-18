@@ -1,0 +1,9 @@
+<div class="container">
+  <div class="row">
+    {{#each model as |project|}}
+      <h4>{{project.name}}</h4>
+      <p>{{project.desc}}</p>
+      <span>{{project.stars}}</span>
+    {{/each}}
+  </div>
+</div>
